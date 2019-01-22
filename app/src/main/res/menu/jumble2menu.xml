@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item android:title="Restart Game"
+
+        android:id="@+id/omi1"/>
+
+    <item android:title="Easy Level"
+        android:id="@+id/omi2"/>
+
+    <item android:title="Hard level" android:id="@+id/omi3"/>
+
+    <item android:title="EXIT" android:id="@+id/omi4"/>
+    <item android:title="sound"
+        android:id="@+id/omi5"
+        app:showAsAction="always"
+        android:icon="@drawable/soundon"
+        ></item>
+
+
+</menu>
